@@ -10,7 +10,9 @@ namespace guessingame
 
             Console.WriteLine(message);
 
+            string farewell = "goodbye world";
 
+            Console.WriteLine(farewell);
      
         }
     }
